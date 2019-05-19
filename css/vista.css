@@ -1,0 +1,55 @@
+body{
+	display: flex;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+/* Contenedores */
+
+.cpntenedor_prin{
+	border: 1px solid #ffffff;
+	margin: 0 aunto;
+	width: 90%;
+	background:#ffffff;
+	padding: 50px 0 90px 90px;
+	text-align: justify;
+
+}
+.contenedorSecu{
+	border: 1px solid #ffffff;
+	margin: 0 aunto;
+	width: 55%;
+	background:#ffffff;
+	padding: 50px 90px 90px 70px;
+}
+
+/* Padding */
+
+.padding-b{
+	padding-bottom: 1px;
+}
+
+/* Colores */
+
+.color-gray{
+	color:#8A8A8B;
+}
+
+.color-blue{
+	color:#13C9DC;
+}
+
+/* Imagen perfil */
+
+.img-perfil {
+  border-radius: 10px;
+  border: 2px solid;
+  color:#13C9DC;
+}
+
+/* Redes sociales */
+
+.social-media{
+	margin-left: -15px;
+	list-style-type: none;
+}
